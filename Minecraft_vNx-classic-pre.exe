@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Minecraft vNx</title>
+  <style>
+    body {
+      background-color: #0b0b0b;
+      color: #00ff99;
+      font-family: monospace;
+      padding: 2em;
+      background-image: url('data:image/svg+xml;base64,...'); /* Glitch effect placeholder */
+      background-size: cover;
+    }
+    h1 {
+      text-align: center;
+      font-size: 2.5em;
+      text-shadow: 0 0 5px #ff0044;
+    }
+    .warning {
+      color: #ff4444;
+      font-weight: bold;
+      margin-top: 1em;
+      text-align: center;
+    }
+    .glitch-text {
+      font-size: 1.2em;
+      animation: flicker 1.5s infinite;
+    }
+    @keyframes flicker {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.4; }
+    }
+    .download-button {
+      display: block;
+      margin: 2em auto;
+      padding: 1em 2em;
+      background: #001100;
+      border: 1px solid #00ff99;
+      color: #00ff99;
+      font-size: 1em;
+      text-align: center;
+      text-decoration: none;
+      transition: all 0.3s ease;
+    }
+    .download-button:hover {
+      background: #003300;
+      box-shadow: 0 0 10px #00ff99;
+    }
+    footer {
+      margin-top: 5em;
+      font-size: 0.8em;
+      text-align: center;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <h1>Minecraft vNx</h1>
+  <p class="glitch-text">Esta versión no fue desarrollada por Mojang. Si la encuentras… no la ejecutes.</p>
+
+  <p class="warning">Advertencia: Los reportes indican que este archivo altera el comportamiento del sistema.</p>
+
+  <a href="#" class="download-button">Descargar minecraft_classic_Nx.v∞.exe</a>
+
+  <footer>
+    © 199x - NullCode Archive - Todos los derechos fragmentados<br>
+    build[13N]-fragment_002
+  </footer>
+</body>
+</html>
+
+
+Aquí tienes una primera versión de la página web del ARG: Minecraft vNx.
+
+Diseño estilo retro y misterioso.
+
+Botón de descarga falso.
+
+Advertencias en texto glitcheado.
+
+Pie de página con información críptica.
+Puedes abrir el archivo HTML en cualquier navegador y se verá como una página real. ¿Quieres que agregue más secciones como un “foro falso”, archivos ocultos en el código fuente o efectos de sonido espeluznantes?
